@@ -20,7 +20,6 @@ sections:
 - type: document
   path: src/assets/content/data/info.json
   label: About
-  read_only: false
 - type: heading
   label: Config
 - type: document
