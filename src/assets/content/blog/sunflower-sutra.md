@@ -1,5 +1,5 @@
 ---
-title: Sunflower Sutra
+title: huh
 author: Friedrich Nietzsche
 date: 2019-07-31T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
